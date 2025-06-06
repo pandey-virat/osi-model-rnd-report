@@ -32,7 +32,7 @@ The OSI Model is a foundational framework in computer networking that divides th
 ## Reference
 
 > Microsoft. (2024). *The OSI Model*. Microsoft Learn.  
-> [https://learn.microsoft.com/en-us/training/modules/networking-fundamentals/2-osi-model](https://learn.microsoft.com/en-us/training/modules/networking-fundamentals/2-osi-model)
+> [https://learn.microsoft.com/en-us/training/modules/networking-fundamentals/2-osi-model](https://learn.microsoft.com/en-us/windows-hardware/drivers/network/windows-network-architecture-and-the-osi-model)
 
 ## Purpose
 
