@@ -18,7 +18,6 @@ The OSI Model is a foundational framework in computer networking that divides th
 
 - `OSI_Model_Report.pdf` – Final version of the R&D report  
 - `OSI_Model_Report.docx` – Editable Word version (optional)  
-- `summary_table.png` – Optional visual diagram of OSI Layers
 
 ## Topics Covered
 
